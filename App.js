@@ -6,7 +6,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <WebView
-        source={{ uri: 'https://yg7gl2x11obk.space.minimaxi.com' }}
+        source={{ uri: 'https://w28q0bv3lhl7.space.minimaxi.com' }}
         style={styles.webview}
         startInLoadingState={true}
         renderLoading={() => (
